@@ -6,5 +6,8 @@ Language = "BASH"
 Biostack = "Genomics"
 Slack_username = "@nishat"
 
-echo "$Name,$E_mail,$Language,$Biostack,$Slack_username"
-
+echo"$Name\c"
+echo"$E_mail\c"
+echo"$Language\c"
+echo"$Biostack\c"
+echo"$Slack_username"
