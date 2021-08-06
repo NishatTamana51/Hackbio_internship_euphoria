@@ -1,13 +1,17 @@
 #!/bin/bash
 
-Name = "Nishat Tamanna"
-E_mail = "nishattamanna51@gmail.com"
-Language = "BASH"
-Biostack = "Genomics"
-Slack_username = "@nishat"
+echo "Nishat Tamanna"
+echo "nishattamanna51@gmail.com"
+echo "@nishat"
+echo "Genomics"
+echo "@ni7shat"
 
-echo"$Name\c"
-echo"$E_mail\c"
-echo"$Language\c"
-echo"$Biostack\c"
-echo"$Slack_username"
+#calculating hamming distance
+slack="@nishat"
+twitter="@ni7shat"
+
+if [ "$slack" = "$twitter" ]; then
+    awk -v slack=$slack -v twitter=$twitter '{ for (i=1;i<=length(slack);i++) { if (substr(slack,i,1) != substr(twitter,i,1)) { count++ } }} END { print (count) }' <<< ""
+else
+    echo "not applicable"
+fi
