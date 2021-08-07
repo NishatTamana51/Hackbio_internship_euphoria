@@ -41,7 +41,7 @@
 <ul>
 ✴️ Connect your git to github account <br>
 <br> ✴️ Write a bash script to generate the CSV file:<br>
-    Using nano editor create a bash script that will-
+     Using nano editor create a bash script that will-
     <br>
     <ul> <br>
       👉 Clone the repository using that script<br>
