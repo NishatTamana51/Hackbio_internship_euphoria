@@ -16,7 +16,7 @@
 <p>And each team must use at least 7 different programming languages. As a solo member, I used only one, that is BASH.</p>
 <p>After pushing the scripts to the team’s git repository, collaboratively as a team we were told to generate a CSV file from all the outputs of the team's scripts.</p>
 
-<h1 align="center">Let me show how you should accomplish <br> the task all by yourself </h1>
+<h1 align="center">Let me show how you should accomplish <br> the task all by yourself 💁‍♀️</h1>
 
 <h1>Prerequisites </h1>
 <ul>
@@ -51,14 +51,14 @@
     </ul>
  
 <br> ✴️ Make the script executable
- <ul>👉 Run “chmod +x file_name
+ <ul>👉 Run <b>chmod +x file_name</b>
     </ul> <br>
 ✴️ Run the bash script and get your CSV file <br>
 </ul> 
 
- <h1 align=”center”>❤️ Thank You ❤️</h1>
+ <h1 align="center">❤️ Thank You ❤️</h1>
 
-<h1>Fun Fact</h1>😜
+<h1>Fun Fact😜</h1>
 <p>I didn’t know bash scripting, I only knew Python & C programming. I took it as a challenge to work with a new language. 💪</p>
 <p>SO, if you are a novice coder, you can also take challenges and check how far you can go! 💪</p>
 
