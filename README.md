@@ -14,7 +14,7 @@
 
 <p>We were told to choose any programming language and write small scripts that will print - name, e-mail, slack handle, biostack, twitter handle and hamming distance between the two handles.</p>
 <p>And each team must use at least 7 different programming languages. As a solo member, I used only one, that is BASH.</p>
-<p>After pushing the scripts to the team’s git repository. Collaboratively as a team we were told to generate a CSV file from all the outputs of the team's scripts.</p>
+<p>After pushing the scripts to the team’s git repository, collaboratively as a team we were told to generate a CSV file from all the outputs of the team's scripts.</p>
 
 <h1 align="center">Let me show how you should accomplish <br> the task all by yourself </h1>
 
